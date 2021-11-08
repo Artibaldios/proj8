@@ -1,0 +1,15 @@
+#dropbox {
+    width: 600px;
+    height: auto;
+    margin: auto;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+
+}
+.box{
+    display: flex;
+    flex-direction: column;
+}
